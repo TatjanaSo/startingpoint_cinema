@@ -37,6 +37,8 @@ namespace StartingPoint
 			string statement = custMickeyMouse.Statement();
 
 			// Print the statement
+            Console.WriteLine("Tatjana was here");
+
 			Console.WriteLine(statement);
 			Console.ReadLine();
 		}
