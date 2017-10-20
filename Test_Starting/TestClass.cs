@@ -8,7 +8,8 @@ using StartingPoint;
 
 namespace Test_Starting
 {
-    class TestClass
+    [TestFixture]
+    public class TestClass
     {
         // Movies
         Movie m_Cinderella;
